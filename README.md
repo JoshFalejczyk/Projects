@@ -6,7 +6,7 @@ NOTE: At the moment, most of the code used to make this game is not mine, as I f
 
 CONTROLS: 
 
-Movement: Up/Down/Left/Right Arrows
-Dash: F
-Attack: C
-Pause: Esc
+1. Movement: Up/Down/Left/Right Arrows
+2. Dash: F
+3. Attack: C
+4. Pause: Esc
